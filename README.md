@@ -1,2 +1,9 @@
-# hackintosh
-一些安装hackintosh的efi
+型号：天逸510s-071mb
+处理器：i3-10100
+显卡：620
+已驱动：
+核显
+声卡
+网卡
+usb
+cpu变频
